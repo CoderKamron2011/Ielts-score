@@ -1,24 +1,19 @@
 # Ielts-score
 
-Salom bu mening yangi proyektim va bu proyekt sizga **Ielts** balingizni hisoblab berishga yordam beradi...
+Salom bu mening yangi proyektim **ielts score** bo'lib bu proyekt siz uchun ielts balingizni hisoblab beradi
 
-## **Code**ni ishlatish
+# Runcode of project
 
-![run code](/image/gif1.gif)
-### Tarifi 
-Bu yerda siz birinchi bo'lib **speking** balingizni kiriting keyin **reading** baligizni keyin esa **writing** balingizni va ohirida **listening** balingizni kiriting lekin shoshilmang!! Siz **listening** balingizni kiritganingizdan so'ng enter bosishga shoshilmang birinchi navbatda hamma blingiz to'griligiga ishonch hosil qiling va **enter** ni bosing.
+![runcode](/image/gif2.1.gif)
 
-## Qo'shimcha
+bu yerda siz ko'rishingiz mumkinki siz speaking reading writing listening ballaringiz ni kiritsan giz u sizga o'rtacha qiymatini topib sizning darajangizni aytadi.
 
-Agarda siz tepadagi **gif**ga etibor bersangiz pastda **Davom etasizmi? (yes/no):**  degan jumlani ko'rgan bo'lsangiz kerak. 
-![run code](/image/gif2.gif)
-Bu yerda **yes**ni kiritsangiz siz dasturni qayta ishga tushirasiz.
+## Qo'shimcha 
 
-![run code](/image/gif3.gif)
-Buyerda siz **no**ni kiritsangiz daturni to'htatasiz.
+proyektning afzal tomoni shundaki siz to'hta tishni istamasangiz proyekt to'htamaydi.
 
-Lekin boshqa turdagi qo'zlarni kiritsangiz:
-![run code](/image/gif4.gif)
-Mana shunday bo'ladi.
+![](/image/gif2.2.gif)
 
-# Made by @KamronCoder2011
+bu yerda ko'rib turibsizki yes ni yozsangiz dastur qayta ishga tushadi. no ni bossangizgina dastur to'htaydi.
+
+# Made by: @KamronCoder2011
